@@ -1,0 +1,7 @@
+node{
+    
+    stage('git')
+        
+        git 'https://github.com/kanha-satya/sruti.git'
+    
+    }
